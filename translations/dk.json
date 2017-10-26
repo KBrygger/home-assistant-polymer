@@ -1,0 +1,12 @@
+{
+  "language": {
+    "dk": "Danish"
+  },
+  "panel": {
+    "states": "Tilstand",
+    "map": "Kort",
+    "logbook": "Logbog",
+    "history": "Historik",
+    "log_out": "Log Ud"
+  }
+}
