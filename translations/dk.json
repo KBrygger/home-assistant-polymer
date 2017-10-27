@@ -1,0 +1,13 @@
+{
+  "language": {
+    "dk": "Danish"
+  },
+  "panel": {
+    "config": "Konfiguration",
+    "states": "Oversigt",
+    "map": "Kort",
+    "logbook": "Logbog",
+    "history": "Historik",
+    "log_out": "Log Ud"
+  }
+}
